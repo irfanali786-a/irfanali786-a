@@ -1,53 +1,77 @@
-# README.md
+# Hi there 👋, I'm Irfan Ali  
 
-### Hi there 👋, I'm Irfan Ali
+![DevOps Engineer](https://via.placeholder.com/1200x300?text=Welcome+to+My+Profile) <!-- Replace with a personalized banner image -->
 
-I'm a DevOps Engineer with a keen interest in cloud and containerization technologies. I specialize in Google Cloud Platform (GCP), Microsoft Azure, Linux Server, Docker, Kubernetes, Jenkins, Python, and Shell scripting. I am a Google Certified Cloud Architect and love to explore new technologies and leverage them to solve real-life problems ✨.
-
-![Google Certified Cloud Architect](badge_URL) <!-- Replace badge_URL with your certification badge URL -->
-
----
-
-## 📫 How to reach me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/feed/)) <!-- Replace linkedin_profile_link with your LinkedIn profile link -->
-
-You can also drop me an email at [irfanali.ece2014@live.com](mailto:your_email@example.com) <!-- Replace your_email@example.com with your email -->
+I'm a **DevOps Engineer** with a passion for cloud and containerization technologies. My expertise includes **Google Cloud Platform (GCP)**, **Microsoft Azure**, **Linux Server**, **Docker**, **Kubernetes**, **Jenkins**, **Python**, and **Shell scripting**.  
+✨ I am a **Google Certified Cloud Architect** who thrives on solving real-world problems through technology.
 
 ---
 
-## 💼 Technical Skills
+## 🏆 Certifications  
 
-- **Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure
-- **Containerization Tools:** Docker, Kubernetes
-- **CI/CD:** Jenkins
-- **Operating Systems:** Linux Server
-- **Programming Languages:** Python, Shell
+![Google Certified Cloud Architect](https://via.placeholder.com/150x150?text=Google+Cloud+Architect)  
+[Google Certified Cloud Architect](https://www.credly.com/badges/7a83974f-951b-4915-9260-d966b5869758/public_url)
 
----
+![Astronomer Certification for Apache Airflow Fundamentals](https://via.placeholder.com/150x150?text=Airflow+Fundamentals)  
+[Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/38b0d0e4-4407-4e60-aef3-809f0a1ac3b0/public_url)
 
-## 🎉 Achievements
+![Professional Scrum Master™ I (PSM I)](https://via.placeholder.com/150x150?text=PSM+I)  
+[Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/5fc641c4-d612-492a-8a5c-6e9a48efff7e/public_url)
 
-- Google Certified Cloud Architect
-- Professional Scrum Master I
-
----
-
-## 🌱 I'm currently learning
-I'm Currently learning Executive MBA at Indian Institute of Management Sirmaur!
-I'm currently improving my skills in Kubernetes and exploring Terraform.
+![Microsoft Certified: Azure Fundamentals](https://via.placeholder.com/150x150?text=Azure+Fundamentals)  
+[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/67235e16-515a-4216-864a-32b7a54881cc/public_url)
 
 ---
 
-## 📄 Latest Blog Posts
+## 💼 Technical Skills  
+
+- **Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure  
+- **Containerization Tools:** Docker, Kubernetes  
+- **CI/CD:** Jenkins  
+- **Operating Systems:** Linux Server  
+- **Programming Languages:** Python, Shell  
+
+---
+
+## 🌱 I'm Currently Learning  
+
+🎓 Pursuing **Executive MBA** at **Indian Institute of Management Sirmaur**  
+🚀 Enhancing my skills in **Python** and exploring **FinanceManagement**  
+
+---
+
+## 📫 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/feed/)  
+- 📧 [irfanali.ece2014@live.com](mailto:irfanali.ece2014@live.com)  
+
+---
+
+## 📄 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](blog_post_1_link)
-- [Blog Post 2](blog_post_2_link)
+- [Medium](medium.com/@irfanali.ece2014_76043)  
+- [Blogs](https://cloud-finops-a83.blogspot.com/)  
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-⭐️ From [Your GitHub handle](github_profile_link) <!-- Replace github_profile_link with your GitHub profile link -->
+## 🎉 Achievements  
 
-<!-- Note: You can use this markdown for showcasing images and styling your profile. -->
+- **Professional Cloud Architect Certification**  
+- **Professional Scrum Master™ I (PSM I)**  
+- **Astronomer Certification for Apache Airflow Fundamentals**  
+- **Microsoft Certified: Azure Fundamentals**  
+
+---
+
+## 🏆 Metrics  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-handle&show_icons=true&theme=radical&count_private=true) <!-- Replace "your-github-handle" with your actual GitHub username -->
+
+![Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-handle&theme=react-dark&hide_border=true&area=true) <!-- Replace "your-github-handle" with your actual GitHub username -->
+
+---
+
+⭐️ From [Irfan Ali](https://github.com/your-github-handle)  
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-handle&color=blue) <!-- Replace "your-github-handle" with your actual GitHub username -->
