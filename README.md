@@ -10,7 +10,7 @@ I'm a DevOps Engineer with a keen interest in cloud and containerization technol
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn]([linkedin_profile_link](https://www.linkedin.com/feed/)) <!-- Replace linkedin_profile_link with your LinkedIn profile link -->
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/feed/)) <!-- Replace linkedin_profile_link with your LinkedIn profile link -->
 
 You can also drop me an email at [your_email@example.com](mailto:your_email@example.com) <!-- Replace your_email@example.com with your email -->
 
