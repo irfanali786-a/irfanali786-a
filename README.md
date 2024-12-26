@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3523c333-142e-4aa8-8f83-587df862df4a)# README.md
+# README.md
 
 ### Hi there 👋, I'm Irfan Ali
 
