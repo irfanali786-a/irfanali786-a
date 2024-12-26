@@ -75,7 +75,9 @@ I'm a **DevOps Engineer** with a passion for cloud and containerization technolo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanali786-a&show_icons=true&theme=radical&count_private=true) <!-- Replace "your-github-handle" with your actual GitHub username -->
 
-![Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=irfanali786-a&theme=react-dark&hide_border=true&area=true) <!-- Replace "your-github-handle" with your actual GitHub username -->
+![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=irfanali786-a&theme=react-dark&hide_border=true&area=true)
+
+##![Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=irfanali786-a&theme=react-dark&hide_border=true&area=true) <!-- Replace "your-github-handle" with ##your actual GitHub username -->
 
 ---
 
