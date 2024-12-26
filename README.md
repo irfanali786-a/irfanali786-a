@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Irfan Ali  
 
-![DevOps Engineer](https://via.placeholder.com/1200x300?text=Welcome+to+My+Profile) <!-- Replace with a personalized banner image -->
+![DevOps Engineer](https://github.com/user-attachments/assets/98dfc583-6d93-4649-8fe3-2b6b27b5aa32)
+<!-- Replace with a personalized banner image -->
 
 I'm a **DevOps Engineer** with a passion for cloud and containerization technologies. My expertise includes **Google Cloud Platform (GCP)**, **Microsoft Azure**, **Linux Server**, **Docker**, **Kubernetes**, **Jenkins**, **Python**, and **Shell scripting**.  
 ✨ I am a **Google Certified Cloud Architect** who thrives on solving real-world problems through technology.
@@ -67,9 +68,9 @@ I'm a **DevOps Engineer** with a passion for cloud and containerization technolo
 
 ## 🏆 Metrics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-handle&show_icons=true&theme=radical&count_private=true) <!-- Replace "your-github-handle" with your actual GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanali786-a&show_icons=true&theme=radical&count_private=true) <!-- Replace "your-github-handle" with your actual GitHub username -->
 
-![Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-handle&theme=react-dark&hide_border=true&area=true) <!-- Replace "your-github-handle" with your actual GitHub username -->
+![Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=irfanali786-a&theme=react-dark&hide_border=true&area=true) <!-- Replace "your-github-handle" with your actual GitHub username -->
 
 ---
 
