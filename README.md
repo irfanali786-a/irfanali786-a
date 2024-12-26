@@ -1,4 +1,4 @@
-# README.md
+![image](https://github.com/user-attachments/assets/3523c333-142e-4aa8-8f83-587df862df4a)# README.md
 
 ### Hi there 👋, I'm Irfan Ali
 
@@ -12,7 +12,7 @@ I'm a DevOps Engineer with a keen interest in cloud and containerization technol
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/feed/)) <!-- Replace linkedin_profile_link with your LinkedIn profile link -->
 
-You can also drop me an email at [your_email@example.com](mailto:your_email@example.com) <!-- Replace your_email@example.com with your email -->
+You can also drop me an email at [irfanali.ece2014@live.com](mailto:your_email@example.com) <!-- Replace your_email@example.com with your email -->
 
 ---
 
@@ -29,11 +29,12 @@ You can also drop me an email at [your_email@example.com](mailto:your_email@exam
 ## 🎉 Achievements
 
 - Google Certified Cloud Architect
+- Professional Scrum Master I
 
 ---
 
 ## 🌱 I'm currently learning
-
+I'm Currently learning Executive MBA at Indian Institute of Management Sirmaur!
 I'm currently improving my skills in Kubernetes and exploring Terraform.
 
 ---
